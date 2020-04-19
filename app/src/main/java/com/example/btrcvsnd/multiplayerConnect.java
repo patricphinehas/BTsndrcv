@@ -43,7 +43,7 @@ public class multiplayerConnect extends AppCompatActivity {
     public static final int NO_SOCKET_FOUND=4;
 
 
-    String bluetooth_message="00";
+    String bluetooth_message="This is a test Message";
 
 
 
